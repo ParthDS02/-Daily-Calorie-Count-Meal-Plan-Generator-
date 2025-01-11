@@ -66,7 +66,6 @@ The **Report Result Screen** displays the final meal plan in a downloadable PDF 
 - **Streamlit**: For building the interactive web interface.
 - **FPDF**: For generating downloadable PDF meal plans.
 - **Python**: For backend logic and data processing.
-- **Pandas/Numpy**: For handling and processing the input data.
 
 ---
 
