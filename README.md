@@ -43,7 +43,7 @@ The web interface of the **Daily Calorie Count Meal Plan Generator** is designed
 - **Customizable Meal Options**: Users can choose preferences for types of food or specific dietary restrictions.
 - **Responsive Layout**: The design is responsive to fit various screen sizes, ensuring a seamless experience on mobile, tablet, and desktop.
 
-![Web Screen Snapshot]![image](https://github.com/user-attachments/assets/f28224dc-62ae-4c7c-a434-365914070078)
+![image](https://github.com/user-attachments/assets/f28224dc-62ae-4c7c-a434-365914070078)
 
 
 ---
@@ -57,7 +57,7 @@ The **Report Result Screen** displays the final meal plan in a downloadable PDF 
 - **Downloadable PDF**: The meal plan can be downloaded as a PDF for offline reference.
 - **Personalized Recommendations**: Shows specific calorie counts for each meal based on user inputs.
 
-![Report Result Screen Snapshot]![image](https://github.com/user-attachments/assets/ed2fb00c-c529-46a8-8f2c-960a58988cd7)
+![image](https://github.com/user-attachments/assets/ed2fb00c-c529-46a8-8f2c-960a58988cd7)
 
 ---
 
