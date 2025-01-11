@@ -32,13 +32,3 @@ Data Science is about extracting insights from data and making informed decision
 4. **PDF Generation**: The app’s PDF generation feature showcases how Python can be used to create dynamic documents based on real-time data, which is particularly useful for report generation in data-driven applications.
 
 ---
-
-## 🚀 **How to Run the App Locally**
-
-To run the **Daily Calorie Count Meal Plan Generator** app on your local machine, follow these steps:
-
-### 1. Clone the repository:
-```bash
-git clone https://github.com/your-username/meal-plan-generator.git
-cd meal-plan-generator
-
